@@ -1,0 +1,3 @@
+[zenoss.zenpacks]
+ZenPacks.community.ZenossAPI = ZenPacks.community.ZenossAPI
+
